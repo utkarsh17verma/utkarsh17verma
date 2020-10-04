@@ -1,7 +1,7 @@
 ### Hey,[Utkarsh here!](https://www.linkedin.com/in/utkarsh17verma/)<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 
-[![Linkedin Badge](https://img.shields.io/badge/-utkarsh17verma-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/utkarsh17verma/)](https://www.linkedin.com/in/utkarsh17verma/) [![Gmail Badge](https://img.shields.io/badge/-asterp04@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:utkarsh17verma@gmail.com)](mailto:utkarsh17verma@gmail.com) [![Youtube Channel](https://img.shields.io/badge/-The%20Broke%20Coder-c14438?style=flat-square&logo=Youtube&link=https://www.youtube.com/channel/utkarshvermaofficial)](https://www.youtube.com/channel/utkarshvermaofficial)
+[![Linkedin Badge](https://img.shields.io/badge/-utkarsh17verma-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/utkarsh17verma/)](https://www.linkedin.com/in/utkarsh17verma/) [![Gmail Badge](https://img.shields.io/badge/-utkarsh17verma@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:utkarsh17verma@gmail.com)](mailto:utkarsh17verma@gmail.com) [![Youtube Channel](https://img.shields.io/badge/-Utkarsh%20Verma-c14438?style=flat-square&logo=Youtube&link=https://www.youtube.com/channel/utkarshvermaofficial)](https://www.youtube.com/channel/utkarshvermaofficial)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=utkarsh17verma" alt="Utkarsh Verma" /> </p>
 
 Welcome to my humble abode in the Digital World.. There are 10 types of people in the world. Those who get Binary and those who don't.
