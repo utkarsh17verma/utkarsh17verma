@@ -4,7 +4,8 @@
 [![Linkedin Badge](https://img.shields.io/badge/-utkarsh17verma-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/utkarsh17verma/)](https://www.linkedin.com/in/utkarsh17verma/) [![Gmail Badge](https://img.shields.io/badge/-utkarsh17verma@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:utkarsh17verma@gmail.com)](mailto:utkarsh17verma@gmail.com) [![Youtube Channel](https://img.shields.io/badge/-Utkarsh%20Verma-c14438?style=flat-square&logo=Youtube&link=http://youtube.com/utkarshvermaofficial)](http://youtube.com/utkarshvermaofficial)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=utkarsh17verma" alt="Utkarsh Verma" /> </p>
 
-Welcome to my humble abode in the Digital World.. There are 10 types of people in the world. Those who get Binary and those who don't.
+"My laptop is my sidekick, and software developing my superpower 👨🏽‍💻"
+"Content creation is now my passion, and Finance and Investing in my niche 👨🏽‍💻"
 
 ## :computer: Technologies I Love
 * HTML
@@ -13,16 +14,6 @@ Welcome to my humble abode in the Digital World.. There are 10 types of people i
 * NODE JS
 * REACT JS
 
- ## Who am I?
- ```python
- class WhoAmI:
- 	user = 'Utkarsh Verma'
-	current_edu = "Kamla Nehru Institute of Technology"
-	
-	def getCity():
-		retrun Sultanpur_India()
-	
- ```
  
 ## Current Works
  * I'm currently working on 🔭 building **Web Apps using NODE JS** and working up on polishing my skills 🌱 in **Competitive Programming**.
