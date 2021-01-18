@@ -29,7 +29,7 @@ Welcome to my humble abode in the Digital World.. There are 10 types of people i
  * Also, I've got a **Youtube Channel, [UTKARSH VERMA](https://www.youtube.com/channel/utkarshvermaofficial)**. Be sure to check it out as I keep posting videos about Personal Finance, Investing and Entrepreneurship.
  
 ## Other Stuff
-  - :octocat: [My Resume](https://docs.google.com/document/d/16nwZbQyxWJIN-Wh9VP-q8VO4ZI8K0hFYf8pKzODj5rc/edit?usp=sharing)
+  - :octocat: [My Resume](https://docs.google.com/document/d/1fvMDGNVsC96Sd70MiATLtlT1oqY9bloN_fjfByl3cKA/edit?usp=sharing)
   - If you have any suggestions to this README, feel free to inform me. And if you liked, you are free to use it for yourself.(P.S. Star it too!!:grimacing: )
 
 ![Haany's github stats](https://github-readme-stats.vercel.app/api?username=utkarsh17verma&show_icons=true)
