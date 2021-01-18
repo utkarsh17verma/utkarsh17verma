@@ -4,7 +4,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-utkarsh17verma-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/utkarsh17verma/)](https://www.linkedin.com/in/utkarsh17verma/) [![Gmail Badge](https://img.shields.io/badge/-utkarsh17verma@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:utkarsh17verma@gmail.com)](mailto:utkarsh17verma@gmail.com) [![Youtube Channel](https://img.shields.io/badge/-Utkarsh%20Verma-c14438?style=flat-square&logo=Youtube&link=http://youtube.com/utkarshvermaofficial)](http://youtube.com/utkarshvermaofficial)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=utkarsh17verma" alt="Utkarsh Verma" /> </p>
 
-"My laptop is my sidekick, and software developing my superpower 👨🏽‍💻"
+"My laptop is my sidekick, and software developing my superpower 👨🏽‍💻" </br>
 "Content creation is now my passion, and Finance and Investing in my niche 👨🏽‍💻"
 
 ## :computer: Technologies I Love
