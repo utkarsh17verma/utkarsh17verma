@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=utkarsh17verma" alt="Utkarsh Verma" /> </p>
 
 "My laptop is my sidekick, and software developing my superpower 👨🏽‍💻" </br>
-"Content creation is now my passion, and Finance and Investing in my niche 👨🏽‍💻"
+"Content creation is now my passion, and Finance and Investing in my niche "
 
 ## :computer: Technologies I Love
 * HTML
